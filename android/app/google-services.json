@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "59858778016",
+    "firebase_url": "https://terrasufa-default-rtdb.firebaseio.com",
+    "project_id": "terrasufa",
+    "storage_bucket": "terrasufa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59858778016:android:bed87e2c6a7c4a95ed56c5",
+        "android_client_info": {
+          "package_name": "azaktilza.com.azaktilza.azaktilza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpFOvzjb70SVQyn7_o0JyCyNAH7ZNRUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
