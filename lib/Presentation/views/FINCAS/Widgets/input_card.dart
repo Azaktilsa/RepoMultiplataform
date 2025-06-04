@@ -118,7 +118,7 @@ class InputCard extends StatelessWidget {
                   key: key,
                   child: TextField(
                     controller: controller,
-                    keyboardType: TextInputType.number,
+                    keyboardType: const TextInputType.numberWithOptions(decimal: true),
                     decoration: InputDecoration(
                       hintText: hint,
                       enabledBorder: const UnderlineInputBorder(
